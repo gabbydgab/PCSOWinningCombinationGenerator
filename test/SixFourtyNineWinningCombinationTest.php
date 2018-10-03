@@ -15,6 +15,6 @@ final class SixFortyNineWinningCombinationTest extends TestCase
     public function showSixFortyNineWinningCombination(): void
     {
         var_dump(SixFortyNine::winningCombo());
-        $this->assertTrue(true, SixFortyNine::winningCombo());
+        $this->assertTrue(true, "Try again next time. :)");
     }
 }
